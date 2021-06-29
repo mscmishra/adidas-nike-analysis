@@ -6,7 +6,7 @@ Find the sorted datasets available in the repository viz., adidas_data.csv and n
 
 The program runs on Python 3 and gives a basic introduction to SQL connectivity through it. Creating and Manipulating data tables with python scripts can be viewed.
 
-SQLite is used as RDBMS here. Make sure to download and install SQLite on you system.
+SQLite is used as RDBMS here. Make sure to download and install SQLite on your system.
 
 [SQLite Download Page](https://www.sqlite.org/download.html "SQLite Download Page")
 
